@@ -1,2 +1,2 @@
 # Toxic-Comment-Detection
-Toxic Comment Detection using DistillBert
+Toxic Comment Detection
